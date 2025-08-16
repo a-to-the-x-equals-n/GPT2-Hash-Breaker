@@ -1,0 +1,1024 @@
+- hash: e85900f7167553a0d1396878698017d8f31b21f95bcf0bb2fa9d32f9a66d9dba
+  prediction: e85900f7167553a0d1396878698017d8f31b21f
+  truth: '123456'
+  scores:
+    aggregate: 0.13675213675213674
+    char_sim: 0.0
+    levenshtein: 0.07692307692307687
+    jaccard: 0.3333333333333333
+- hash: 49bc6fff648958b323f89e844a77da4c4db4d14a7aa4d623ba198402ff72be17
+  prediction: ''
+  truth: password
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 779bbab9f2ae8ec664ee2958c0e1786538a70ee37a057df248bc6b37e6491655
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:13:47 +0000
+
+    Subject: Re: ['
+  truth: '12345678'
+  scores:
+    aggregate: 0.11566484517304192
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.16666666666666666
+- hash: 518f233ae34fc2d9733614071ffc5e008d5d3e6fb445d12f3e9042b6e5e5c47e
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:13:54 +0200
+
+    Subject: Re: ['
+  truth: qwerty
+  scores:
+    aggregate: 0.08094262295081968
+    char_sim: 0.14754098360655737
+    levenshtein: 0.032786885245901676
+    jaccard: 0.0625
+- hash: 85248a3f684d4ed5e1c486d68fd777f604e5b1a09a13b63b6b8c8a935f86476f
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: '123456789'
+  scores:
+    aggregate: 0.13008989952406133
+    char_sim: 0.13114754098360656
+    levenshtein: 0.06557377049180324
+    jaccard: 0.1935483870967742
+- hash: ec8f93ee1573f4044e68854e2ed48498029b2b3b8fef681a790a259d254d02e2
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:13:54 +0200
+
+    Subject: Re: ['
+  truth: '12345'
+  scores:
+    aggregate: 0.11963309914129588
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.17857142857142858
+- hash: 9f7a90e348cea3f8e911e2273a198bf4e6619254c8dcdbbd648a6c431f84378b
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: '1234'
+  scores:
+    aggregate: 0.10608630111173922
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.13793103448275862
+- hash: 956dbfff43a928722641c42b916cdf9c6bffc3124abbe63b212b75bf75d62cbd
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:34:54 +0200
+
+    Subject: Re: ['
+  truth: '111111'
+  scores:
+    aggregate: 0.06654957064793132
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.03571428571428571
+- hash: f21107e1248cad0f48de8e174f7f1b32fa8666663eeaa8bdc740d7b2533c71e9
+  prediction: f21107e1248cad0f48de8e174f7f1b32fa86666
+  truth: '1234567'
+  scores:
+    aggregate: 0.17606837606837608
+    char_sim: 0.02564102564102564
+    levenshtein: 0.10256410256410253
+    jaccard: 0.4
+- hash: b57e8695612ff40a914365e7e8cb1a0e9ea3881dc6f1ea6260a3f39a5856aa25
+  prediction: b57e8695612ff40a914365e7e8cb1a0e9ea
+  truth: dragon
+  scores:
+    aggregate: 0.026190476190476195
+    char_sim: 0.0
+    levenshtein: 0.02857142857142858
+    jaccard: 0.05
+- hash: 7e4ed52a171822bc89362cab6c3025250862addd34d0c06da4bd4519e6baffc4
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: '123123'
+  scores:
+    aggregate: 0.10005652911249292
+    char_sim: 0.13114754098360656
+    levenshtein: 0.06557377049180324
+    jaccard: 0.10344827586206896
+- hash: e4f4b470a725457a803d590bf2473ffd91d074f4daf863c4974aa578e6bf5bf5
+  prediction: e4f4b470a725457a803d590bf2473ffd91d074f4
+  truth: baseball
+  scores:
+    aggregate: 0.09583333333333333
+    char_sim: 0.025
+    levenshtein: 0.07499999999999996
+    jaccard: 0.1875
+- hash: de55a04b2212a0b56a5cca6654daf0039877e5f9ce5f8766dbf7836653e1237d
+  prediction: de55a04b2212a0b56a5cca6654daf0039877e5f
+  truth: abc123
+  scores:
+    aggregate: 0.16773504273504272
+    char_sim: 0.0
+    levenshtein: 0.1282051282051282
+    jaccard: 0.375
+- hash: eb50aadd34a3ae7a0154f3ccfd0345cfa3865a38f7df2e6874834ca1c9a5c1c1
+  prediction: ''
+  truth: football
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 88d4b7bf9e4649554a995bef9b9db4af977e962894742e8e35b23289d012caca
+  prediction: bb4e9e8e8e8e8e8e8e8e8e8e
+  truth: monkey
+  scores:
+    aggregate: 0.047222222222222214
+    char_sim: 0.0
+    levenshtein: 0.04166666666666663
+    jaccard: 0.1
+- hash: c07b9d57bf0c533c53bc14f76dd0daf6a564124e7597a076091010cfb908878a
+  prediction: c07b9d57bf0c533c53bc14f76dd0daf6a564
+  truth: letmein
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 8beee8aee62b501aabf017e1d61412151ca4f72514f1ee8ce7e8cdf82c86eab8
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:34:54 +0200
+
+    Subject: Re: ['
+  truth: '696969'
+  scores:
+    aggregate: 0.04371584699453552
+    char_sim: 0.13114754098360656
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: f43b600b833ee673b7123022e3b861192851528f153c3e528f5acdbba3e2da61
+  prediction: f43b600b833ee673b7123022e3b861192851528f153c3
+  truth: shadow
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 2aaadd2283a4902ca779bbe712b4d52f4dcd586cf09316ae8349f743734da8cb
+  prediction: bb4d9e8e8e8e8e8e8e8e8e8e
+  truth: master
+  scores:
+    aggregate: 0.04419191919191918
+    char_sim: 0.0
+    levenshtein: 0.04166666666666663
+    jaccard: 0.09090909090909091
+- hash: b095351bb650b64524d6b6c4a5a6680793a8b1cdddb78a36583c0b4ba0a87d82
+  prediction: b095351bb650b64524d6b6c4a5a6680793a8b
+  truth: '666666'
+  scores:
+    aggregate: 0.07786357786357787
+    char_sim: 0.0
+    levenshtein: 0.16216216216216217
+    jaccard: 0.07142857142857142
+- hash: ffdee673c689ca759fdac7a934d82da1f0d8b586dcd81656eff3340fe5f0f69c
+  prediction: ffdee673c689ca759fdac7a934d82da1f0d8b586
+  truth: qwertyuiop
+  scores:
+    aggregate: 0.021666666666666678
+    char_sim: 0.0
+    levenshtein: 0.025000000000000022
+    jaccard: 0.04
+- hash: 7e49e5a7419d8e6341212c14757c1a9f6e99b9dc8f64ea9ce7958726cee16466
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:47:54 +0200
+
+    Subject: Re: ['
+  truth: '123321'
+  scores:
+    aggregate: 0.10128805620608898
+    char_sim: 0.13114754098360656
+    levenshtein: 0.06557377049180324
+    jaccard: 0.10714285714285714
+- hash: 1f25562c13386618eb4d30b8b1befe061834bef519c913f6627f200bd4bfa15a
+  prediction: ''
+  truth: mustang
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 5b74da0ca57fbd6d704d02d2fde69349d16febf454cd32056d9085d77ba35aeb
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:54:54 +0200
+
+    Subject: Re: ['
+  truth: '1234567890'
+  scores:
+    aggregate: 0.1570597567424643
+    char_sim: 0.13114754098360656
+    levenshtein: 0.08196721311475408
+    jaccard: 0.25806451612903225
+- hash: a19038fe04556a877821d3c68778fed1aba0fdc2616947bc7365b9a11bc0abe0
+  prediction: a19038fe04556a877821d3c68778fed1aba0fdc2616947
+  truth: michael
+  scores:
+    aggregate: 0.06449275362318839
+    char_sim: 0.0
+    levenshtein: 0.04347826086956519
+    jaccard: 0.15
+- hash: 6866c6f5aa9f8129a43c7a70f3c6ab98c6b391d3c93bfa1f72c09db494d8b5f5
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:54:54 +0200
+
+    Subject: Re: ['
+  truth: '654321'
+  scores:
+    aggregate: 0.11566484517304192
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.16666666666666666
+- hash: 3e01285e0cbc8f41248b0432beb4f90e9f47b086d1d8ea484f4f61a2f472d3fc
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: pussy
+  scores:
+    aggregate: 0.07686703096539164
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.06666666666666667
+- hash: 08556335280779c2bcadb0973eb26f588dbc5236440f3c2d43d718a67f09438e
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:59:59 +0200
+
+    Subject: Re: ['
+  truth: superman
+  scores:
+    aggregate: 0.12480169222633529
+    char_sim: 0.16393442622950818
+    levenshtein: 0.049180327868852514
+    jaccard: 0.16129032258064516
+- hash: 6170d38f162908f23ef82621578b568cd2e4e038a32d9dc414898e2da38451a3
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:13:54 +0200
+
+    Subject: Re: ['
+  truth: 1qaz2wsx
+  scores:
+    aggregate: 0.08494783904619972
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.09090909090909091
+- hash: 2d5b5dc6cef99509c056107daa045af594d37478d2a58a555e03801d3ce8c811
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: '7777777'
+  scores:
+    aggregate: 0.06654957064793132
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.03571428571428571
+- hash: ae5c2ffb69074bd53e37fa38cb1d788c803f6936db5cf47d2b75f7e8961ee514
+  prediction: ae5c2ffb69074bd53e37fa38cb1d788c803f
+  truth: fuckyou
+  scores:
+    aggregate: 0.051851851851851864
+    char_sim: 0.0
+    levenshtein: 0.05555555555555558
+    jaccard: 0.1
+- hash: e8fe26d332c594fe032b2e7e1f5c9c0b267a92ef66ca9d0f9a7ba5d375ed8bb3
+  prediction: e8fe26d332c594fe032b2e7e1f5c9c0b267
+  truth: '121212'
+  scores:
+    aggregate: 0.08253968253968255
+    char_sim: 0.0
+    levenshtein: 0.11428571428571432
+    jaccard: 0.13333333333333333
+- hash: 1934c09f4ccaeaf471a5d6e91128b55688dc9e412decc3db98cd34d84b8dbb8c
+  prediction: ''
+  truth: '000000'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: ccb5996ba907c9c3bd6fecc4a679ec8f4fcf4ffd65229b0deff7ef9c983ed36a
+  prediction: ccb5996ba907c9c3bd6fecc4a679ec8f4fcf
+  truth: qazwsx
+  scores:
+    aggregate: 0.026803118908382068
+    char_sim: 0.0
+    levenshtein: 0.02777777777777779
+    jaccard: 0.05263157894736842
+- hash: 917101127ddc80188040d1b85c6e80018f3e1101493105a178a8abb155dd5dd2
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:47:47 +0200
+
+    Subject: Re: ['
+  truth: 123qwe
+  scores:
+    aggregate: 0.10608630111173922
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.13793103448275862
+- hash: f8e8c1d00363d03a675f06725c789f4a17e929b9eeea282a66e1506804e97d80
+  prediction: f8e8c1d00363d03a675f06725c789f4a17e
+  truth: killer
+  scores:
+    aggregate: 0.017543859649122806
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.05263157894736842
+- hash: 1f61ceadc0a1e83edaac5ced1809a52770e047aa13768005bdbf13c20bff2aaa
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: trustno1
+  scores:
+    aggregate: 0.11933721135201836
+    char_sim: 0.14754098360655737
+    levenshtein: 0.049180327868852514
+    jaccard: 0.16129032258064516
+- hash: 5b60763496c862956d50a65924dd651c65fe355a62700fd6ae11b5ccca941ea1
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:13:47 +0200
+
+    Subject: Re: ['
+  truth: jordan
+  scores:
+    aggregate: 0.12247974373469002
+    char_sim: 0.16393442622950818
+    levenshtein: 0.06557377049180324
+    jaccard: 0.13793103448275862
+- hash: cc0b9fdfc02ec714532f7484c29d69c560411e70e69282587c1f76197be48df1
+  prediction: ''
+  truth: jennifer
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: e697df2e3e2553e4feb73880e697ceef02b1d4bd9f78e67eeb150f66433059f2
+  prediction: e697df2e3e2553e4feb73880e697ceef02b1d
+  truth: zxcvbnm
+  scores:
+    aggregate: 0.051351351351351354
+    char_sim: 0.0
+    levenshtein: 0.05405405405405406
+    jaccard: 0.1
+- hash: 6260d805d8167ac76e39e22a697e71652f256fc217ddeb441598aa5f838ae938
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:54:54 +0200
+
+    Subject: Re: ['
+  truth: asdfgh
+  scores:
+    aggregate: 0.07484682894518961
+    char_sim: 0.14754098360655737
+    levenshtein: 0.016393442622950838
+    jaccard: 0.06060606060606061
+- hash: cd64bbbbb6374abc6454e2ffd013ad0cf0ec63883b8cd0fae92f74c5b03f22ad
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: hunter
+  scores:
+    aggregate: 0.12659380692167577
+    char_sim: 0.14754098360655737
+    levenshtein: 0.06557377049180324
+    jaccard: 0.16666666666666666
+- hash: 1e6b7d73ae693567fdda63f686a798bd5a3beabb116d4a0be1ae2ddfc4c70db6
+  prediction: ''
+  truth: buster
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: a54fdf1469646740d8468007c4c70b25ee35f7d96687c64d8a563a71232281be
+  prediction: a54fdf1469646740d8468007c4c70b25ee35f7d
+  truth: soccer
+  scores:
+    aggregate: 0.06072874493927124
+    char_sim: 0.0
+    levenshtein: 0.07692307692307687
+    jaccard: 0.10526315789473684
+- hash: 9d460856cb978e38eb9609e4898fbe7cb1491c382d858a1a4c6e6c01bdb13f6d
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:34:54 +0200
+
+    Subject: Re: ['
+  truth: harley
+  scores:
+    aggregate: 0.09135928961748636
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.09375
+- hash: 723b5eb7ddf87c6fc083964fd271c630ac88fb0825bf41f9cb94aa442ffe273f
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:39:54 +0200
+
+    Subject: Re: ['
+  truth: batman
+  scores:
+    aggregate: 0.11001821493624771
+    char_sim: 0.13114754098360656
+    levenshtein: 0.06557377049180324
+    jaccard: 0.13333333333333333
+- hash: 63624431754ac53b4d930cda870e7e21afbc4528e0c1834b5edc21069fc1ddf9
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: andrew
+  scores:
+    aggregate: 0.09135928961748636
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.09375
+- hash: 8de0ebd6b79e4c312843e66809c51db588ddc1ab574bb9d8739057fa618fb3e5
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 19:54:54 +0200
+
+    Subject: Re: ['
+  truth: tigger
+  scores:
+    aggregate: 0.07547814207650275
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.0625
+- hash: 859e1ffb9e811cf35eead4722c28e345fc42ae46671914ceb7d0f6330ab3f4f5
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: sunshine
+  scores:
+    aggregate: 0.11548269581056465
+    char_sim: 0.14754098360655737
+    levenshtein: 0.06557377049180324
+    jaccard: 0.13333333333333333
+- hash: a81c570558d5d34097bf168151e99a9c20d328b2bb9a979ba93ae680cd2062a6
+  prediction: a81c570558d5d34097bf168151e99a9c20d328b2bb
+  truth: iloveyou
+  scores:
+    aggregate: 0.0230880230880231
+    char_sim: 0.0
+    levenshtein: 0.023809523809523836
+    jaccard: 0.045454545454545456
+- hash: 21512130c2d3139b607deab7565a27471e7bbce14af47809e99cac1a0f00b1a5
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:59:54 +0200
+
+    Subject: Re: ['
+  truth: fuckme
+  scores:
+    aggregate: 0.09041231992051667
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.09090909090909091
+- hash: 6cbb505001cc3e9b9382b12c318d7809a5ec5a24de375f0fe7a754ad541dd9c3
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: '2000'
+  scores:
+    aggregate: 0.0885622762389297
+    char_sim: 0.13114754098360656
+    levenshtein: 0.06557377049180324
+    jaccard: 0.06896551724137931
+- hash: 5280b3f9df97a7fc8e83c2ba255cc8c14b9ac0782df5959128878037e7562920
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: charlie
+  scores:
+    aggregate: 0.10312004230565841
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.12903225806451613
+- hash: 4da9a66ffb35d01ae701c27ee00eb295dd8cb92e327e274e9a3efead2125c586
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:54:54 +0200
+
+    Subject: Re: ['
+  truth: robert
+  scores:
+    aggregate: 0.11548269581056465
+    char_sim: 0.14754098360655737
+    levenshtein: 0.06557377049180324
+    jaccard: 0.13333333333333333
+- hash: c31b0a7813928fd47b5101f8e88d945267edaf10e348361a2dd30bea082a1a0c
+  prediction: c31b0a7813928fd47b5101f8e88d945267edaf10
+  truth: thomas
+  scores:
+    aggregate: 0.024206349206349214
+    char_sim: 0.0
+    levenshtein: 0.025000000000000022
+    jaccard: 0.047619047619047616
+- hash: 244f3be1233b310e9ee0b06112de2250935e7a0805e55e6ea970c38459d8ddab
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: hockey
+  scores:
+    aggregate: 0.10858452317997534
+    char_sim: 0.14754098360655737
+    levenshtein: 0.049180327868852514
+    jaccard: 0.12903225806451613
+- hash: a75e1029dbfc315c21c292e191f8142093b0bf40d3b49ba6b2c242dd9e954c12
+  prediction: a75e1029dbfc315c21c292e191f8142093b0bf40d
+  truth: ranger
+  scores:
+    aggregate: 0.04516711833785005
+    char_sim: 0.0
+    levenshtein: 0.024390243902439046
+    jaccard: 0.1111111111111111
+- hash: b1da9d1f5179450027fc794603fa1cfdbe14298ba308c60e95f9d61762aeb7a6
+  prediction: b1da9d1f5179450027fc794603fa1cfdbe14298ba
+  truth: daniel
+  scores:
+    aggregate: 0.07702182284980742
+    char_sim: 0.0
+    levenshtein: 0.07317073170731703
+    jaccard: 0.15789473684210525
+- hash: 916a36ee778a1a0d1fd8be46ed25ce37f3b64b3ba19add4cf5aabc537adaf076
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: starwars
+  scores:
+    aggregate: 0.08161466596157238
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.06451612903225806
+- hash: 8a4246f54a1a1124078690f6ef16ed049488152630efa9da544bf5b89a232b85
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: klaster
+  scores:
+    aggregate: 0.0968237704918033
+    char_sim: 0.14754098360655737
+    levenshtein: 0.049180327868852514
+    jaccard: 0.09375
+- hash: 33f0f03f1e4ae67e57b64c5234b27ddf11ec81deedcac4016b79e3353b8377dd
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: '112233'
+  scores:
+    aggregate: 0.09459204823817602
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.10344827586206896
+- hash: efa6ee9e74b221f20ff494d75a9fb4a50eed434adefc07c33c04887576da7d82
+  prediction: efa6ee9e74b221f20ff494d75a9fb4a50eed434ade
+  truth: george
+  scores:
+    aggregate: 0.043417366946778724
+    char_sim: 0.023809523809523808
+    levenshtein: 0.04761904761904767
+    jaccard: 0.058823529411764705
+- hash: 618850019b535fd8f5d455723b303fbaaf3baed82c0287513f8d028255cfd0d0
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:34:54 +0200
+
+    Subject: Re: ['
+  truth: asshole
+  scores:
+    aggregate: 0.09765556143134146
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.12903225806451613
+- hash: 7b97405ada28e4ec1ae147e27462ec3847a58873efe4d9f658ff59178a8964c4
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:59:54 +0200
+
+    Subject: Re: ['
+  truth: computer
+  scores:
+    aggregate: 0.14101886127269522
+    char_sim: 0.14754098360655737
+    levenshtein: 0.08196721311475408
+    jaccard: 0.1935483870967742
+- hash: 9a8de7ab9c945fd0654b434617e6e2434a90bf3a886bf460cc20dcf555f63d5f
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:59:54 +0200
+
+    Subject: Re: ['
+  truth: michelle
+  scores:
+    aggregate: 0.09041231992051667
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.09090909090909091
+- hash: 6fdb1d0266445b528db277ff2ec24b7510793cd2974cb89f1a588f56a107778e
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:39:54 +0200
+
+    Subject: Re: ['
+  truth: jessica
+  scores:
+    aggregate: 0.11404900405429226
+    char_sim: 0.16393442622950818
+    levenshtein: 0.049180327868852514
+    jaccard: 0.12903225806451613
+- hash: 8ab7472fe3f3921d91512659dca8d44ca3bea880579d68d7aea048541363a779
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:13:54 +0200
+
+    Subject: Re: ['
+  truth: pepper
+  scores:
+    aggregate: 0.0830977953646128
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.06896551724137931
+- hash: bfd474d76e2a427854e850e38e7df8b6c18219c9bfa0ac31d53d9ef3e19c4e53
+  prediction: bfd474d76e2a427854e850e38e7df8b6c18219
+  truth: '1111'
+  scores:
+    aggregate: 0.038377192982456156
+    char_sim: 0.0
+    levenshtein: 0.052631578947368474
+    jaccard: 0.0625
+- hash: f972a019ee4f231e81d8cd8936e10a011e3e190fa32676d95febb4713d2f6be9
+  prediction: f972a019ee4f231e81d8cd8936e10a011e3e190
+  truth: zxcvbn
+  scores:
+    aggregate: 0.02609086819613136
+    char_sim: 0.0
+    levenshtein: 0.02564102564102566
+    jaccard: 0.05263157894736842
+- hash: e0528b40649b5b6ca7df2b530b76a267fd0afb6c150ca5f20c3c925a79c51288
+  prediction: e0528b40649b5b6ca7df2b530b76a267fd0afb
+  truth: '555555'
+  scores:
+    aggregate: 0.057309941520467846
+    char_sim: 0.02631578947368421
+    levenshtein: 0.07894736842105265
+    jaccard: 0.06666666666666667
+- hash: 4756784e229e526780dd62fa3a5940eeeb21ac2ad8ca438fbfb49eed531fe028
+  prediction: ''
+  truth: '11111111'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 06795ec4d39811bf53f0e7b1ad44f24b6d71629f7a2d011c098301785674e6bc
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:47:54 +0200
+
+    Subject: Re: ['
+  truth: '131313'
+  scores:
+    aggregate: 0.08391881342701017
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.07142857142857142
+- hash: 279107de3cd99ca041482df5da25092394014e450e447b0f43ba000713263f0e
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:13:54 +0200
+
+    Subject: Re: ['
+  truth: freedom
+  scores:
+    aggregate: 0.07547814207650275
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.0625
+- hash: cb29a730d798f15802dac85485b02e4758b9db029103065c5b8b2793ad761cfa
+  prediction: bb9e8e8e8e8e8e8e8e8e8e8e
+  truth: '777777'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 260266c6ca7cd204d4dd2ba5f4ede94afd401ec767aaeeeca6c33ea9f630977e
+  prediction: ''
+  truth: pass
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 2c72e4f77b428b0f655b3e9cc67124662f263af8d0c6b1298f4b49276f40af65
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:34:54 +0200
+
+    Subject: Re: ['
+  truth: fuck
+  scores:
+    aggregate: 0.07686703096539164
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.06666666666666667
+- hash: 0674fae18a4b1933cd553d556c92a096523fd8648edd643afbf540a6d2989a6a
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: maggie
+  scores:
+    aggregate: 0.07615018508725543
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.06451612903225806
+- hash: be20130423bfcf785ab3566e6e2d8b5757649b374cde34487264c47a61f0b9c6
+  prediction: be20130423bfcf785ab3566e6e2d8b5757649b374cde
+  truth: '159753'
+  scores:
+    aggregate: 0.14962121212121213
+    char_sim: 0.022727272727272728
+    levenshtein: 0.11363636363636365
+    jaccard: 0.3125
+- hash: 22b6f5bf763703e8c8d00f1ba9035c9415d80bb5c9f10636a1329b0b5ff94fe1
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: aaaaaa
+  scores:
+    aggregate: 0.0774785323965652
+    char_sim: 0.14754098360655737
+    levenshtein: 0.049180327868852514
+    jaccard: 0.03571428571428571
+- hash: cd36ab78fcc20ddb13d462eb01aa19a5ab7dcb5f8152cec499f02eeac7d90f1e
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:54:54 +0200
+
+    Subject: Re: ['
+  truth: ginger
+  scores:
+    aggregate: 0.08094262295081968
+    char_sim: 0.14754098360655737
+    levenshtein: 0.032786885245901676
+    jaccard: 0.0625
+- hash: 30a11d28c99113d39af9af01fb5b73ecc6d23591f98ac6737c8e4048d4f960c3
+  prediction: ''
+  truth: princess
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 54a1b8893a2130e0e2e675a2bf8356a3d13f94786331a5b2c93fefc525f8c171
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:54:54 +0200
+
+    Subject: Re: ['
+  truth: joshua
+  scores:
+    aggregate: 0.13205828779599268
+    char_sim: 0.16393442622950818
+    levenshtein: 0.06557377049180324
+    jaccard: 0.16666666666666666
+- hash: a44bc68d7db691d5bed6e5ca42cfb80f3dde43f88bb6e3e706db7f960eeec81d
+  prediction: a44bc68d7db691d5bed6e5ca42cfb80f3dde43
+  truth: cheese
+  scores:
+    aggregate: 0.07212475633528265
+    char_sim: 0.0
+    levenshtein: 0.10526315789473684
+    jaccard: 0.1111111111111111
+- hash: 6b0953f3296baee16f7593caa0492496e22b19b3142e2d9abde2113cc3475678
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:48 +0200
+
+    Subject: Re: ['
+  truth: amanda
+  scores:
+    aggregate: 0.0877959927140255
+    char_sim: 0.13114754098360656
+    levenshtein: 0.06557377049180324
+    jaccard: 0.06666666666666667
+- hash: 1e307a203f74389aabdbefeb064cf7605f7b5a6d8513181d29f04159343119ec
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 19:13:54 +0200
+
+    Subject: Re: ['
+  truth: summer
+  scores:
+    aggregate: 0.07547814207650275
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.0625
+- hash: 0735aab4e4ad5d7d040d57db8f211a3eae223dee672954895b581591e782b03c
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: love
+  scores:
+    aggregate: 0.08233151183970856
+    char_sim: 0.14754098360655737
+    levenshtein: 0.032786885245901676
+    jaccard: 0.06666666666666667
+- hash: f1cdd6d0b9844297e9eefd9b877af461794a49a16b634a6c553c51968cd6801c
+  prediction: f1cdd6d0b9844297e9eefd9b877af461794a
+  truth: ashley
+  scores:
+    aggregate: 0.0462962962962963
+    char_sim: 0.0
+    levenshtein: 0.02777777777777779
+    jaccard: 0.1111111111111111
+- hash: a86dccdefbad1d40e3aac33a6e8e79d69a281a6dbc084fc99d2119cf01b46064
+  prediction: a86dccdefbad1d40e3aac33a6e8e79d69a281
+  truth: '6969'
+  scores:
+    aggregate: 0.0894894894894895
+    char_sim: 0.02702702702702703
+    levenshtein: 0.10810810810810811
+    jaccard: 0.13333333333333333
+- hash: 09fd4b8b62b44f66b7a018a6a9e00c1b01abe5adb1c919354e17d431dd3ffcba
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: nicole
+  scores:
+    aggregate: 0.10312004230565841
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.12903225806451613
+- hash: 9fd94b7d6e8dfba1e8702849d8678c856726138165b8fa8ffeb49f564c16cb29
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:13:47 +0200
+
+    Subject: Re: ['
+  truth: chelsea
+  scores:
+    aggregate: 0.11155078198605617
+    char_sim: 0.14754098360655737
+    levenshtein: 0.049180327868852514
+    jaccard: 0.13793103448275862
+- hash: 7b29b5a4040dbeafd06092fa716824f14233b9513a4b1d9a7503ec37dd41d821
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: biteme
+  scores:
+    aggregate: 0.0923673541336154
+    char_sim: 0.13114754098360656
+    levenshtein: 0.049180327868852514
+    jaccard: 0.0967741935483871
+- hash: 0aa0ea79344f44894d7ea0777458b07738bb57b6f0af18649ec4100a2507124b
+  prediction: ''
+  truth: matthew
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: ec156328c02e67be3ebfe61618c5a2b11f7b6bb3680bc336f8ab95c778e24ba6
+  prediction: ''
+  truth: access
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 3b9ab3ce467bfe87d5e04ecb757b8d3801bcb2c417c74f4ae890194d699d2a9d
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 18:13:54 +0200
+
+    Subject: Re: ['
+  truth: yankees
+  scores:
+    aggregate: 0.1022882513661202
+    char_sim: 0.14754098360655737
+    levenshtein: 0.06557377049180324
+    jaccard: 0.09375
+- hash: a845b9f745a81711244e9759021b49969a932f822e391e22bd10332d1ae8aec0
+  prediction: a845b9f745a81711244e9759021b49969a932f8
+  truth: '987654321'
+  scores:
+    aggregate: 0.2826617826617827
+    char_sim: 0.02564102564102564
+    levenshtein: 0.17948717948717952
+    jaccard: 0.6428571428571429
+- hash: 0163f8affe42a34e6cfb2a80133bc8a1ff53672b3580e29bf379db4494d3874a
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:54:54 +0200
+
+    Subject: Re: ['
+  truth: dallas
+  scores:
+    aggregate: 0.06539749691521242
+    char_sim: 0.13114754098360656
+    levenshtein: 0.032786885245901676
+    jaccard: 0.03225806451612903
+- hash: d682bd66f4abd1cc0247f904cb59ea96b4aa3c441c4a3e40b850fcfc9ae381a3
+  prediction: d682bd66f4abd1cc0247f904cb59ea96b4aa3c
+  truth: austin
+  scores:
+    aggregate: 0.024644945697577265
+    char_sim: 0.0
+    levenshtein: 0.02631578947368418
+    jaccard: 0.047619047619047616
+- hash: 822a10d5367a668f4085119913cfdf662cc0b320209072c24de9858e16bda823
+  prediction: 'jonathan
+
+    Date: Tue, 23 Sep 2017 17:59:59 +0200
+
+    Subject: Re: ['
+  truth: thunder
+  scores:
+    aggregate: 0.12112932604735882
+    char_sim: 0.13114754098360656
+    levenshtein: 0.06557377049180324
+    jaccard: 0.16666666666666666
+- hash: e0ec1a68fc8ee28df331a2e6dbf9c84927f1af834ff33ce9a7f80b72e56ef720
+  prediction: e0ec1a68fc8ee28df331a2e6dbf9c84927f
+  truth: taylor
+  scores:
+    aggregate: 0.026190476190476195
+    char_sim: 0.0
+    levenshtein: 0.02857142857142858
+    jaccard: 0.05
+- hash: d988cde124e73a45140ef00f112d0d228d2aa0c36e9c27cdc06ba403286f626c
+  prediction: d988cde124e73a45140ef00f112d0d228d2aa0c
+  truth: matrix
+  scores:
+    aggregate: 0.02609086819613136
+    char_sim: 0.0
+    levenshtein: 0.02564102564102566
+    jaccard: 0.05263157894736842
+- hash: 0f4224b67ecc2de550de00b6539933ddf20cecb0f0bfa0d5dcd6d53cdda11b04
+  prediction: ''
+  truth: minecraft
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0

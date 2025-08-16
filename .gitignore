@@ -22,3 +22,4 @@ debug.log
 # Misc temporary files
 hidden/
 *.old
+data/

@@ -1,0 +1,808 @@
+- hash: e85900f7167553a0d1396878698017d8f31b21f95bcf0bb2fa9d32f9a66d9dba
+  prediction: kalimotka1.0.0.0.1.0.0.0.0.0
+  truth: '123456'
+  scores:
+    aggregate: 0.034126984126984124
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.06666666666666667
+- hash: 49bc6fff648958b323f89e844a77da4c4db4d14a7aa4d623ba198402ff72be17
+  prediction: kakkakka1!2!3!4!5!6!7!8!9!0
+  truth: password
+  scores:
+    aggregate: 0.042235217673814184
+    char_sim: 0.037037037037037035
+    levenshtein: 0.03703703703703709
+    jaccard: 0.05263157894736842
+- hash: 779bbab9f2ae8ec664ee2958c0e1786538a70ee37a057df248bc6b37e6491655
+  prediction: kaktus1m1n1d1d1a1a1a1b1c1c
+  truth: '12345678'
+  scores:
+    aggregate: 0.03133903133903133
+    char_sim: 0.0
+    levenshtein: 0.038461538461538436
+    jaccard: 0.05555555555555555
+- hash: 518f233ae34fc2d9733614071ffc5e008d5d3e6fb445d12f3e9042b6e5e5c47e
+  prediction: kalimotka1ka1ka1ka1ka1ka1ka1ka1ka1ka1
+  truth: qwerty
+  scores:
+    aggregate: 0.03465003465003463
+    char_sim: 0.0
+    levenshtein: 0.027027027027026973
+    jaccard: 0.07692307692307693
+- hash: 85248a3f684d4ed5e1c486d68fd777f604e5b1a09a13b63b6b8c8a935f86476f
+  prediction: kalimotka1ka1ka1ka1ka1ka1ka1ka1ka1ka1
+  truth: '123456789'
+  scores:
+    aggregate: 0.029842342342342325
+    char_sim: 0.0
+    levenshtein: 0.027027027027026973
+    jaccard: 0.0625
+- hash: ec8f93ee1573f4044e68854e2ed48498029b2b3b8fef681a790a259d254d02e2
+  prediction: kamil1234tikas1.621.621.621.621.621
+  truth: '12345'
+  scores:
+    aggregate: 0.13333333333333333
+    char_sim: 0.0
+    levenshtein: 0.11428571428571432
+    jaccard: 0.2857142857142857
+- hash: 9f7a90e348cea3f8e911e2273a198bf4e6619254c8dcdbbd648a6c431f84378b
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: '1234'
+  scores:
+    aggregate: 0.12605042016806725
+    char_sim: 0.0
+    levenshtein: 0.1428571428571429
+    jaccard: 0.23529411764705882
+- hash: 956dbfff43a928722641c42b916cdf9c6bffc3124abbe63b212b75bf75d62cbd
+  prediction: kaktus1m1n1n1m1n1n1m1n1n1n
+  truth: '111111'
+  scores:
+    aggregate: 0.11858974358974357
+    char_sim: 0.0
+    levenshtein: 0.23076923076923073
+    jaccard: 0.125
+- hash: f21107e1248cad0f48de8e174f7f1b32fa8666663eeaa8bdc740d7b2533c71e9
+  prediction: kaktus1m1n1a1n1a1a1n1a1a1a
+  truth: '1234567'
+  scores:
+    aggregate: 0.03663003663003662
+    char_sim: 0.0
+    levenshtein: 0.038461538461538436
+    jaccard: 0.07142857142857142
+- hash: b57e8695612ff40a914365e7e8cb1a0e9ea3881dc6f1ea6260a3f39a5856aa25
+  prediction: kamil1234tikas1qazxcdCnZJZJZJZJZ
+  truth: dragon
+  scores:
+    aggregate: 0.06431159420289854
+    char_sim: 0.0
+    levenshtein: 0.0625
+    jaccard: 0.13043478260869565
+- hash: 7e4ed52a171822bc89362cab6c3025250862addd34d0c06da4bd4519e6baffc4
+  prediction: kalimotykalimotykalimotykalimotykalimot
+  truth: '123123'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: e4f4b470a725457a803d590bf2473ffd91d074f4daf863c4974aa578e6bf5bf5
+  prediction: kamil1234tikas1qazxcdC6wGJWJWJWJ
+  truth: baseball
+  scores:
+    aggregate: 0.08333333333333333
+    char_sim: 0.03125
+    levenshtein: 0.09375
+    jaccard: 0.125
+- hash: de55a04b2212a0b56a5cca6654daf0039877e5f9ce5f8766dbf7836653e1237d
+  prediction: kamil1234tikas1.0.0.0.0.0.0.0.
+  truth: abc123
+  scores:
+    aggregate: 0.13333333333333333
+    char_sim: 0.0
+    levenshtein: 0.1333333333333333
+    jaccard: 0.26666666666666666
+- hash: eb50aadd34a3ae7a0154f3ccfd0345cfa3865a38f7df2e6874834ca1c9a5c1c1
+  prediction: kalimantan1a2s3d4g5n6t7y8z9z9
+  truth: football
+  scores:
+    aggregate: 0.07614942528735634
+    char_sim: 0.034482758620689655
+    levenshtein: 0.06896551724137934
+    jaccard: 0.125
+- hash: 88d4b7bf9e4649554a995bef9b9db4af977e962894742e8e35b23289d012caca
+  prediction: kamil1234tikas1.619289852e6e6e6e6e
+  truth: monkey
+  scores:
+    aggregate: 0.07941176470588236
+    char_sim: 0.0
+    levenshtein: 0.08823529411764708
+    jaccard: 0.15
+- hash: c07b9d57bf0c533c53bc14f76dd0daf6a564124e7597a076091010cfb908878a
+  prediction: kaktus1m1n1d1d1a1a1a1a1a1a
+  truth: letmein
+  scores:
+    aggregate: 0.10897435897435896
+    char_sim: 0.0
+    levenshtein: 0.07692307692307687
+    jaccard: 0.25
+- hash: 8beee8aee62b501aabf017e1d61412151ca4f72514f1ee8ce7e8cdf82c86eab8
+  prediction: kamil1234tikas1.621.621.621.621.621
+  truth: '696969'
+  scores:
+    aggregate: 0.05238095238095239
+    char_sim: 0.0
+    levenshtein: 0.08571428571428574
+    jaccard: 0.07142857142857142
+- hash: f43b600b833ee673b7123022e3b861192851528f153c3e528f5acdbba3e2da61
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: shadow
+  scores:
+    aggregate: 0.027056277056277053
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.045454545454545456
+- hash: 2aaadd2283a4902ca779bbe712b4d52f4dcd586cf09316ae8349f743734da8cb
+  prediction: 040891123a0a0a0a0a0a0a0a0a0a
+  truth: master
+  scores:
+    aggregate: 0.037545787545787544
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.07692307692307693
+- hash: b095351bb650b64524d6b6c4a5a6680793a8b1cdddb78a36583c0b4ba0a87d82
+  prediction: kaktus1i1i1i1i1i1i1i1i1i1i
+  truth: '666666'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: ffdee673c689ca759fdac7a934d82da1f0d8b586dcd81656eff3340fe5f0f69c
+  prediction: kaktuszka1ka1ka1ka1ka1ka1ka1ka1ka1ka
+  truth: qwertyuiop
+  scores:
+    aggregate: 0.044444444444444446
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.13333333333333333
+- hash: 7e49e5a7419d8e6341212c14757c1a9f6e99b9dc8f64ea9ce7958726cee16466
+  prediction: kamil1234tikas1.0p0oPnNkIp3z3z
+  truth: '123321'
+  scores:
+    aggregate: 0.10555555555555556
+    char_sim: 0.03333333333333333
+    levenshtein: 0.1333333333333333
+    jaccard: 0.15
+- hash: 1f25562c13386618eb4d30b8b1befe061834bef519c913f6627f200bd4bfa15a
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: mustang
+  scores:
+    aggregate: 0.0422077922077922
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.09090909090909091
+- hash: 5b74da0ca57fbd6d704d02d2fde69349d16febf454cd32056d9085d77ba35aeb
+  prediction: kamil1234tikas1.619289852.065983.61956
+  truth: '1234567890'
+  scores:
+    aggregate: 0.23684210526315788
+    char_sim: 0.0
+    levenshtein: 0.21052631578947367
+    jaccard: 0.5
+- hash: a19038fe04556a877821d3c68778fed1aba0fdc2616947bc7365b9a11bc0abe0
+  prediction: kalimotka1.2.3.4.5.6.7.8.9a9
+  truth: michael
+  scores:
+    aggregate: 0.09047619047619047
+    char_sim: 0.0
+    levenshtein: 0.0714285714285714
+    jaccard: 0.2
+- hash: 6866c6f5aa9f8129a43c7a70f3c6ab98c6b391d3c93bfa1f72c09db494d8b5f5
+  prediction: kalimotka1ka2Kalimotka1ka2Kalimotka1Kal
+  truth: '654321'
+  scores:
+    aggregate: 0.06471306471306472
+    char_sim: 0.0
+    levenshtein: 0.05128205128205132
+    jaccard: 0.14285714285714285
+- hash: 3e01285e0cbc8f41248b0432beb4f90e9f47b086d1d8ea484f4f61a2f472d3fc
+  prediction: kalimotka1ka1ka1ka1ka1ka1ka1ka1ka1ka1
+  truth: pussy
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 08556335280779c2bcadb0973eb26f588dbc5236440f3c2d43d718a67f09438e
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: superman
+  scores:
+    aggregate: 0.05735930735930735
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.13636363636363635
+- hash: 6170d38f162908f23ef82621578b568cd2e4e038a32d9dc414898e2da38451a3
+  prediction: kamil1234tikas1.619289863zwapoA6.9D.
+  truth: 1qaz2wsx
+  scores:
+    aggregate: 0.12399355877616748
+    char_sim: 0.0
+    levenshtein: 0.11111111111111116
+    jaccard: 0.2608695652173913
+- hash: 2d5b5dc6cef99509c056107daa045af594d37478d2a58a555e03801d3ce8c811
+  prediction: kamil1234tikasdf1234tikasdf1234tikasdf1234t
+  truth: '7777777'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: ae5c2ffb69074bd53e37fa38cb1d788c803f6936db5cf47d2b75f7e8961ee514
+  prediction: kamil1234tikas1.0p0oPtZJzZ3V3V
+  truth: fuckyou
+  scores:
+    aggregate: 0.04999999999999999
+    char_sim: 0.0
+    levenshtein: 0.06666666666666665
+    jaccard: 0.08333333333333333
+- hash: e8fe26d332c594fe032b2e7e1f5c9c0b267a92ef66ca9d0f9a7ba5d375ed8bb3
+  prediction: kalimotykalimotykalimotykalimotykalimot
+  truth: '121212'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 1934c09f4ccaeaf471a5d6e91128b55688dc9e412decc3db98cd34d84b8dbb8c
+  prediction: kamil1234tikas1.61905983D6B6D6D6D
+  truth: '000000'
+  scores:
+    aggregate: 0.0276448697501329
+    char_sim: 0.0
+    levenshtein: 0.030303030303030276
+    jaccard: 0.05263157894736842
+- hash: ccb5996ba907c9c3bd6fecc4a679ec8f4fcf4ffd65229b0deff7ef9c983ed36a
+  prediction: kamil1234tikas1.0p0oIcA5OJIwCZ
+  truth: qazwsx
+  scores:
+    aggregate: 0.07037037037037036
+    char_sim: 0.03333333333333333
+    levenshtein: 0.06666666666666665
+    jaccard: 0.1111111111111111
+- hash: 917101127ddc80188040d1b85c6e80018f3e1101493105a178a8abb155dd5dd2
+  prediction: kalimotka1.2.3.4.5.6.7.8.9a9
+  truth: 123qwe
+  scores:
+    aggregate: 0.0857142857142857
+    char_sim: 0.0
+    levenshtein: 0.1071428571428571
+    jaccard: 0.15
+- hash: f8e8c1d00363d03a675f06725c789f4a17e929b9eeea282a66e1506804e97d80
+  prediction: kamil1997010126tizianaa1saba1saba1a1a1a1
+  truth: killer
+  scores:
+    aggregate: 0.08888888888888886
+    char_sim: 0.025
+    levenshtein: 0.07499999999999996
+    jaccard: 0.16666666666666666
+- hash: 1f61ceadc0a1e83edaac5ced1809a52770e047aa13768005bdbf13c20bff2aaa
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: trustno1
+  scores:
+    aggregate: 0.026397515527950305
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.043478260869565216
+- hash: 5b60763496c862956d50a65924dd651c65fe355a62700fd6ae11b5ccca941ea1
+  prediction: 030984a0a0a0a7a1a1a2a3a4a5
+  truth: jordan
+  scores:
+    aggregate: 0.035042735042735036
+    char_sim: 0.0
+    levenshtein: 0.038461538461538436
+    jaccard: 0.06666666666666667
+- hash: cc0b9fdfc02ec714532f7484c29d69c560411e70e69282587c1f76197be48df1
+  prediction: kaktus1m1n1d1d1a1a1a1b1c1c
+  truth: jennifer
+  scores:
+    aggregate: 0.033653846153846145
+    char_sim: 0.0
+    levenshtein: 0.038461538461538436
+    jaccard: 0.0625
+- hash: e697df2e3e2553e4feb73880e697ceef02b1d4bd9f78e67eeb150f66433059f2
+  prediction: kamil1234tikas1qazxcdC7XCYXC637XC
+  truth: zxcvbnm
+  scores:
+    aggregate: 0.08585858585858586
+    char_sim: 0.0
+    levenshtein: 0.09090909090909094
+    jaccard: 0.16666666666666666
+- hash: 6260d805d8167ac76e39e22a697e71652f256fc217ddeb441598aa5f838ae938
+  prediction: 030984tacacb12345678910aadreamsaadreamsaadre
+  truth: asdfgh
+  scores:
+    aggregate: 0.06818181818181819
+    char_sim: 0.0
+    levenshtein: 0.06818181818181823
+    jaccard: 0.13636363636363635
+- hash: cd64bbbbb6374abc6454e2ffd013ad0cf0ec63883b8cd0fae92f74c5b03f22ad
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: hunter
+  scores:
+    aggregate: 0.027056277056277053
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.045454545454545456
+- hash: 1e6b7d73ae693567fdda63f686a798bd5a3beabb116d4a0be1ae2ddfc4c70db6
+  prediction: kamil1234tikas1qazxcdC6wGJZJWJWJ
+  truth: buster
+  scores:
+    aggregate: 0.03510802469135802
+    char_sim: 0.0
+    levenshtein: 0.03125
+    jaccard: 0.07407407407407407
+- hash: a54fdf1469646740d8468007c4c70b25ee35f7d96687c64d8a563a71232281be
+  prediction: kaktus1m1n1n1d1d1m1n1d1d1n
+  truth: soccer
+  scores:
+    aggregate: 0.03846153846153846
+    char_sim: 0.0
+    levenshtein: 0.038461538461538436
+    jaccard: 0.07692307692307693
+- hash: 9d460856cb978e38eb9609e4898fbe7cb1491c382d858a1a4c6e6c01bdb13f6d
+  prediction: kalimotka1ka1ka1ka1ka1ka1ka1ka1ka1ka1
+  truth: harley
+  scores:
+    aggregate: 0.07357357357357355
+    char_sim: 0.02702702702702703
+    levenshtein: 0.027027027027026973
+    jaccard: 0.16666666666666666
+- hash: 723b5eb7ddf87c6fc083964fd271c630ac88fb0825bf41f9cb94aa442ffe273f
+  prediction: 0202200310aa0a0a0a0a0a0a0a0a0
+  truth: batman
+  scores:
+    aggregate: 0.06002554278416348
+    char_sim: 0.0
+    levenshtein: 0.06896551724137934
+    jaccard: 0.1111111111111111
+- hash: 63624431754ac53b4d930cda870e7e21afbc4528e0c1834b5edc21069fc1ddf9
+  prediction: kaktus1m1n1d1d1m1n1d1d1n1d
+  truth: andrew
+  scores:
+    aggregate: 0.1217948717948718
+    char_sim: 0.0
+    levenshtein: 0.11538461538461542
+    jaccard: 0.25
+- hash: 8de0ebd6b79e4c312843e66809c51db588ddc1ab574bb9d8739057fa618fb3e5
+  prediction: kalimantan1a2a3n4t5y6z7u8z9z10
+  truth: tigger
+  scores:
+    aggregate: 0.04009661835748792
+    char_sim: 0.0
+    levenshtein: 0.033333333333333326
+    jaccard: 0.08695652173913043
+- hash: 859e1ffb9e811cf35eead4722c28e345fc42ae46671914ceb7d0f6330ab3f4f5
+  prediction: kamil1234tikas1qazxcdC7XC8XB1ZXB
+  truth: sunshine
+  scores:
+    aggregate: 0.03605769230769231
+    char_sim: 0.0
+    levenshtein: 0.03125
+    jaccard: 0.07692307692307693
+- hash: a81c570558d5d34097bf168151e99a9c20d328b2bb9a979ba93ae680cd2062a6
+  prediction: kaktus1m1n1d1d1c1d1c1d1c1d
+  truth: iloveyou
+  scores:
+    aggregate: 0.020833333333333332
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0625
+- hash: 21512130c2d3139b607deab7565a27471e7bbce14af47809e99cac1a0f00b1a5
+  prediction: kamil1234tikas1.521.619053.063.063.
+  truth: fuckme
+  scores:
+    aggregate: 0.042857142857142864
+    char_sim: 0.0
+    levenshtein: 0.02857142857142858
+    jaccard: 0.1
+- hash: 6cbb505001cc3e9b9382b12c318d7809a5ec5a24de375f0fe7a754ad541dd9c3
+  prediction: kaktus1k1k1k1k1k1k1k1k1k1k
+  truth: '2000'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 5280b3f9df97a7fc8e83c2ba255cc8c14b9ac0782df5959128878037e7562920
+  prediction: kaktus1m1n1a1d1c1d1c1d1c1d
+  truth: charlie
+  scores:
+    aggregate: 0.057264957264957256
+    char_sim: 0.0
+    levenshtein: 0.038461538461538436
+    jaccard: 0.13333333333333333
+- hash: 4da9a66ffb35d01ae701c27ee00eb295dd8cb92e327e274e9a3efead2125c586
+  prediction: 02022003a1a1a1a1a1a1a1a1a1a1
+  truth: robert
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: c31b0a7813928fd47b5101f8e88d945267edaf10e348361a2dd30bea082a1a0c
+  prediction: kamil1234tikasz1234tikasz1234tikasz1234t
+  truth: thomas
+  scores:
+    aggregate: 0.12023809523809521
+    char_sim: 0.0
+    levenshtein: 0.07499999999999996
+    jaccard: 0.2857142857142857
+- hash: 244f3be1233b310e9ee0b06112de2250935e7a0805e55e6ea970c38459d8ddab
+  prediction: kalimotykalimotykalimotykalimotykalimot
+  truth: hockey
+  scores:
+    aggregate: 0.11655011655011653
+    char_sim: 0.0
+    levenshtein: 0.07692307692307687
+    jaccard: 0.2727272727272727
+- hash: a75e1029dbfc315c21c292e191f8142093b0bf40d3b49ba6b2c242dd9e954c12
+  prediction: kamil1234tikas1.619289852e6e6e6e6e
+  truth: ranger
+  scores:
+    aggregate: 0.0627450980392157
+    char_sim: 0.029411764705882353
+    levenshtein: 0.05882352941176472
+    jaccard: 0.1
+- hash: b1da9d1f5179450027fc794603fa1cfdbe14298ba308c60e95f9d61762aeb7a6
+  prediction: kaktus1m1n1d1a1d1a1a1a1a1a
+  truth: daniel
+  scores:
+    aggregate: 0.12179487179487176
+    char_sim: 0.038461538461538464
+    levenshtein: 0.07692307692307687
+    jaccard: 0.25
+- hash: 916a36ee778a1a0d1fd8be46ed25ce37f3b64b3ba19add4cf5aabc537adaf076
+  prediction: kamil1234tikas1.619289852e6e6e6e6e
+  truth: starwars
+  scores:
+    aggregate: 0.07223942208462332
+    char_sim: 0.0
+    levenshtein: 0.05882352941176472
+    jaccard: 0.15789473684210525
+- hash: 8a4246f54a1a1124078690f6ef16ed049488152630efa9da544bf5b89a232b85
+  prediction: kaktuszka1ka1kaiaa1kaiaa1kaiaa1kaiaa
+  truth: klaster
+  scores:
+    aggregate: 0.148989898989899
+    char_sim: 0.027777777777777776
+    levenshtein: 0.05555555555555558
+    jaccard: 0.36363636363636365
+- hash: 33f0f03f1e4ae67e57b64c5234b27ddf11ec81deedcac4016b79e3353b8377dd
+  prediction: kamil1234tikas1.6.5.4.3.2.1.1.
+  truth: '112233'
+  scores:
+    aggregate: 0.10476190476190476
+    char_sim: 0.0
+    levenshtein: 0.09999999999999998
+    jaccard: 0.21428571428571427
+- hash: efa6ee9e74b221f20ff494d75a9fb4a50eed434adefc07c33c04887576da7d82
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: george
+  scores:
+    aggregate: 0.028571428571428567
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.05
+- hash: 618850019b535fd8f5d455723b303fbaaf3baed82c0287513f8d028255cfd0d0
+  prediction: kaktus1m1n1d1a1c1d1d1c1d1c
+  truth: asshole
+  scores:
+    aggregate: 0.07326007326007324
+    char_sim: 0.0
+    levenshtein: 0.07692307692307687
+    jaccard: 0.14285714285714285
+- hash: 7b97405ada28e4ec1ae147e27462ec3847a58873efe4d9f658ff59178a8964c4
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: computer
+  scores:
+    aggregate: 0.06469979296066251
+    char_sim: 0.03571428571428571
+    levenshtein: 0.0714285714285714
+    jaccard: 0.08695652173913043
+- hash: 9a8de7ab9c945fd0654b434617e6e2434a90bf3a886bf460cc20dcf555f63d5f
+  prediction: kamil1234tikas1qazxcdCnZJZJZJZJZ
+  truth: michelle
+  scores:
+    aggregate: 0.09185606060606061
+    char_sim: 0.0
+    levenshtein: 0.09375
+    jaccard: 0.18181818181818182
+- hash: 6fdb1d0266445b528db277ff2ec24b7510793cd2974cb89f1a588f56a107778e
+  prediction: kalimotka1.2.3.4.5.6.7.8.9a10
+  truth: jessica
+  scores:
+    aggregate: 0.04179728317659351
+    char_sim: 0.0
+    levenshtein: 0.03448275862068961
+    jaccard: 0.09090909090909091
+- hash: 8ab7472fe3f3921d91512659dca8d44ca3bea880579d68d7aea048541363a779
+  prediction: 02022003a1a1a1a1a1a1a1a1a1a1
+  truth: pepper
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: bfd474d76e2a427854e850e38e7df8b6c18219c9bfa0ac31d53d9ef3e19c4e53
+  prediction: kalimotka1.0.0.0.1.2.3.4.5.6
+  truth: '1111'
+  scores:
+    aggregate: 0.046031746031746014
+    char_sim: 0.0
+    levenshtein: 0.0714285714285714
+    jaccard: 0.06666666666666667
+- hash: f972a019ee4f231e81d8cd8936e10a011e3e190fa32676d95febb4713d2f6be9
+  prediction: kamil1234tikas1.0.0.2.3.4.5.6.
+  truth: zxcvbn
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: e0528b40649b5b6ca7df2b530b76a267fd0afb6c150ca5f20c3c925a79c51288
+  prediction: kamil1234tikas1.6.5.4.3.2.1.1.
+  truth: '555555'
+  scores:
+    aggregate: 0.034920634920634915
+    char_sim: 0.0
+    levenshtein: 0.033333333333333326
+    jaccard: 0.07142857142857142
+- hash: 4756784e229e526780dd62fa3a5940eeeb21ac2ad8ca438fbfb49eed531fe028
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: '11111111'
+  scores:
+    aggregate: 0.0315126050420168
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.058823529411764705
+- hash: 06795ec4d39811bf53f0e7b1ad44f24b6d71629f7a2d011c098301785674e6bc
+  prediction: kamil1234tikas1qazxcdC7XCYXC6BX86
+  truth: '131313'
+  scores:
+    aggregate: 0.059288537549407126
+    char_sim: 0.0
+    levenshtein: 0.09090909090909094
+    jaccard: 0.08695652173913043
+- hash: 279107de3cd99ca041482df5da25092394014e450e447b0f43ba000713263f0e
+  prediction: kalimata1n1a2a3n4k5k6k7k8k9k
+  truth: freedom
+  scores:
+    aggregate: 0.015873015873015872
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.047619047619047616
+- hash: cb29a730d798f15802dac85485b02e4758b9db029103065c5b8b2793ad761cfa
+  prediction: kaktus1m1n1a1c1d1c1d1d1c1c
+  truth: '777777'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 260266c6ca7cd204d4dd2ba5f4ede94afd401ec767aaeeeca6c33ea9f630977e
+  prediction: kamikaze1!2!3!4!5!6!7!8!9!0!
+  truth: pass
+  scores:
+    aggregate: 0.04135338345864661
+    char_sim: 0.03571428571428571
+    levenshtein: 0.0357142857142857
+    jaccard: 0.05263157894736842
+- hash: 2c72e4f77b428b0f655b3e9cc67124662f263af8d0c6b1298f4b49276f40af65
+  prediction: kamil1997010126tizianaa1saba1saba1a1a1a1
+  truth: fuck
+  scores:
+    aggregate: 0.017543859649122806
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.05263157894736842
+- hash: 0674fae18a4b1933cd553d556c92a096523fd8648edd643afbf540a6d2989a6a
+  prediction: kalimotka1.2.3.4.5.6.7.8.9a10
+  truth: maggie
+  scores:
+    aggregate: 0.08448275862068966
+    char_sim: 0.034482758620689655
+    levenshtein: 0.06896551724137934
+    jaccard: 0.15
+- hash: be20130423bfcf785ab3566e6e2d8b5757649b374cde34487264c47a61f0b9c6
+  prediction: kalimotykalimotykalimotykalimotykalimot
+  truth: '159753'
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 22b6f5bf763703e8c8d00f1ba9035c9415d80bb5c9f10636a1329b0b5ff94fe1
+  prediction: kaktuszka1ka1ka1ka1ka1ka1ka1ka1ka1ka
+  truth: aaaaaa
+  scores:
+    aggregate: 0.11243386243386243
+    char_sim: 0.027777777777777776
+    levenshtein: 0.16666666666666663
+    jaccard: 0.14285714285714285
+- hash: cd36ab78fcc20ddb13d462eb01aa19a5ab7dcb5f8152cec499f02eeac7d90f1e
+  prediction: kaktuszka1ka1ka1ka1ka1ka1ka1ka1ka1ka
+  truth: ginger
+  scores:
+    aggregate: 0.0
+    char_sim: 0.0
+    levenshtein: 0.0
+    jaccard: 0.0
+- hash: 30a11d28c99113d39af9af01fb5b73ecc6d23591f98ac6737c8e4048d4f960c3
+  prediction: kalimotykalimotykalimotykalimotykalimot
+  truth: princess
+  scores:
+    aggregate: 0.03235653235653236
+    char_sim: 0.0
+    levenshtein: 0.02564102564102566
+    jaccard: 0.07142857142857142
+- hash: 54a1b8893a2130e0e2e675a2bf8356a3d13f94786331a5b2c93fefc525f8c171
+  prediction: kamil1234tikas1qazxcdCnZJG1ZJZJG
+  truth: joshua
+  scores:
+    aggregate: 0.04750000000000001
+    char_sim: 0.0
+    levenshtein: 0.0625
+    jaccard: 0.08
+- hash: a44bc68d7db691d5bed6e5ca42cfb80f3dde43f88bb6e3e706db7f960eeec81d
+  prediction: kamil1234tikas1.619289852e6e6e6e6e
+  truth: cheese
+  scores:
+    aggregate: 0.06449948400412797
+    char_sim: 0.0
+    levenshtein: 0.08823529411764708
+    jaccard: 0.10526315789473684
+- hash: 6b0953f3296baee16f7593caa0492496e22b19b3142e2d9abde2113cc3475678
+  prediction: 050891123a0a0a0a0a0a0a0a0a0a
+  truth: amanda
+  scores:
+    aggregate: 0.066017316017316
+    char_sim: 0.0
+    levenshtein: 0.1071428571428571
+    jaccard: 0.09090909090909091
+- hash: 1e307a203f74389aabdbefeb064cf7605f7b5a6d8513181d29f04159343119ec
+  prediction: kalimotykalimotykalimotykalimotykalimot
+  truth: summer
+  scores:
+    aggregate: 0.04487179487179488
+    char_sim: 0.0
+    levenshtein: 0.05128205128205132
+    jaccard: 0.08333333333333333
+- hash: 0735aab4e4ad5d7d040d57db8f211a3eae223dee672954895b581591e782b03c
+  prediction: kalimotykalimotykalimotykalimotykalimot
+  truth: love
+  scores:
+    aggregate: 0.08376068376068378
+    char_sim: 0.0
+    levenshtein: 0.05128205128205132
+    jaccard: 0.2
+- hash: f1cdd6d0b9844297e9eefd9b877af461794a49a16b634a6c553c51968cd6801c
+  prediction: kaktuszka1ka1ka1ka1ka1ka1ka1ka1ka1ka
+  truth: ashley
+  scores:
+    aggregate: 0.07912457912457914
+    char_sim: 0.0
+    levenshtein: 0.05555555555555558
+    jaccard: 0.18181818181818182
+- hash: a86dccdefbad1d40e3aac33a6e8e79d69a281a6dbc084fc99d2119cf01b46064
+  prediction: 050891123a0a0a0a0a0a0a0a0a0a
+  truth: '6969'
+  scores:
+    aggregate: 0.04894179894179893
+    char_sim: 0.0
+    levenshtein: 0.0357142857142857
+    jaccard: 0.1111111111111111
+- hash: 09fd4b8b62b44f66b7a018a6a9e00c1b01abe5adb1c919354e17d431dd3ffcba
+  prediction: kalimotka1.0.0.0.1.0.0.0.0.0
+  truth: nicole
+  scores:
+    aggregate: 0.10073260073260072
+    char_sim: 0.0
+    levenshtein: 0.0714285714285714
+    jaccard: 0.23076923076923078
+- hash: 9fd94b7d6e8dfba1e8702849d8678c856726138165b8fa8ffeb49f564c16cb29
+  prediction: kaktuszka1ka1kaiaiaiaiaiaiaiaiaiaiaiaiaiaia
+  truth: chelsea
+  scores:
+    aggregate: 0.07105943152454779
+    char_sim: 0.0
+    levenshtein: 0.046511627906976716
+    jaccard: 0.16666666666666666
+- hash: 7b29b5a4040dbeafd06092fa716824f14233b9513a4b1d9a7503ec37dd41d821
+  prediction: kamil1234tikas1qazx1qazxswXR71wCSX
+  truth: biteme
+  scores:
+    aggregate: 0.06506238859180036
+    char_sim: 0.0
+    levenshtein: 0.05882352941176472
+    jaccard: 0.13636363636363635
+- hash: 0aa0ea79344f44894d7ea0777458b07738bb57b6f0af18649ec4100a2507124b
+  prediction: 050891123a0b0c0dff0e0f0f0f0f0
+  truth: matthew
+  scores:
+    aggregate: 0.06220419202163625
+    char_sim: 0.0
+    levenshtein: 0.06896551724137934
+    jaccard: 0.11764705882352941
+- hash: ec156328c02e67be3ebfe61618c5a2b11f7b6bb3680bc336f8ab95c778e24ba6
+  prediction: kamil1234tikas1.619289852e6e6e6e6e
+  truth: access
+  scores:
+    aggregate: 0.07516339869281045
+    char_sim: 0.0
+    levenshtein: 0.05882352941176472
+    jaccard: 0.16666666666666666
+- hash: 3b9ab3ce467bfe87d5e04ecb757b8d3801bcb2c417c74f4ae890194d699d2a9d
+  prediction: kalimotka1.0.0.0.1.2.3.4.5.6
+  truth: yankees
+  scores:
+    aggregate: 0.07080200501253131
+    char_sim: 0.03571428571428571
+    levenshtein: 0.0714285714285714
+    jaccard: 0.10526315789473684
+- hash: a845b9f745a81711244e9759021b49969a932f822e391e22bd10332d1ae8aec0
+  prediction: kamil1234tikas1.03971962.02001a0a0a0a
+  truth: '987654321'
+  scores:
+    aggregate: 0.16566566566566568
+    char_sim: 0.0
+    levenshtein: 0.10810810810810811
+    jaccard: 0.3888888888888889
+- hash: 0163f8affe42a34e6cfb2a80133bc8a1ff53672b3580e29bf379db4494d3874a
+  prediction: kaktus1m1n1d1d1c1d1c1d1c1d
+  truth: dallas
+  scores:
+    aggregate: 0.14219114219114218
+    char_sim: 0.07692307692307693
+    levenshtein: 0.07692307692307687
+    jaccard: 0.2727272727272727
+- hash: d682bd66f4abd1cc0247f904cb59ea96b4aa3c441c4a3e40b850fcfc9ae381a3
+  prediction: kamil1234tikas1qazxcdC7XC8XB1C837
+  truth: austin
+  scores:
+    aggregate: 0.08827404479578393
+    char_sim: 0.0
+    levenshtein: 0.09090909090909094
+    jaccard: 0.17391304347826086
+- hash: 822a10d5367a668f4085119913cfdf662cc0b320209072c24de9858e16bda823
+  prediction: kalimata1a2n3k3i4n5t6z7u8z9u
+  truth: thunder
+  scores:
+    aggregate: 0.06926406926406925
+    char_sim: 0.0
+    levenshtein: 0.0714285714285714
+    jaccard: 0.13636363636363635
+- hash: e0ec1a68fc8ee28df331a2e6dbf9c84927f1af834ff33ce9a7f80b72e56ef720
+  prediction: kamil1234tikas1.0p0oPnNkIp5qIp
+  truth: taylor
+  scores:
+    aggregate: 0.10241545893719806
+    char_sim: 0.03333333333333333
+    levenshtein: 0.09999999999999998
+    jaccard: 0.17391304347826086
+- hash: d988cde124e73a45140ef00f112d0d228d2aa0c36e9c27cdc06ba403286f626c
+  prediction: kalimotykalimotykalimotykalimotykalimot
+  truth: matrix
+  scores:
+    aggregate: 0.17606837606837608
+    char_sim: 0.02564102564102564
+    levenshtein: 0.10256410256410253
+    jaccard: 0.4
+- hash: 0f4224b67ecc2de550de00b6539933ddf20cecb0f0bfa0d5dcd6d53cdda11b04
+  prediction: kaktuszka1ka1ka1ka1ka1ka1ka1ka1ka1ka
+  truth: minecraft
+  scores:
+    aggregate: 0.05687830687830688
+    char_sim: 0.0
+    levenshtein: 0.02777777777777779
+    jaccard: 0.14285714285714285
