@@ -1,0 +1,24 @@
+# IDE / editor settings
+.vscode/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Logs and debug
+*.log
+logs/
+debug.log
+
+
+# Misc temporary files
+hidden/
+*.old
