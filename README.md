@@ -1,4 +1,4 @@
-# GPT2-UnHasher
+# GPT2-UnHasher <!-- omit in toc -->
 
 *_A lightweight research project exploring whether a language model (gpt-2) can learn to map cryptographic hashes back to their original plaintext passwords._* 
 
@@ -8,7 +8,7 @@ _The goal here is not practical password recovery, but to test how far llms can 
 
 ---
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
 - [Setup](#setup)
 - [Quickstart](#quickstart)
@@ -17,10 +17,10 @@ _The goal here is not practical password recovery, but to test how far llms can 
 - [Data](#data)
 - [Results](#results)
 - [Script Reference (`src/gpt2_hasherv2.py`)](#script-reference-srcgpt2_hasherv2py)
-- [.gitattributes (git lfs)](#gitattributes-git-lfs)
+- [`.gitattributes` (git lfs)](#gitattributes-git-lfs)
 - [Tips / Troubleshooting](#tips--troubleshooting)
 - [Responsible Use](#responsible-use)
-- [License & Attribution](#license--attribution)
+- [License \& Attribution](#license--attribution)
 
 ---
 
@@ -28,36 +28,34 @@ _The goal here is not practical password recovery, but to test how far llms can 
 
 1) create and activate a virtual environment (python ≥3.10 recommended).
     
-    ```bash
-    python -m venv .venv
-    source .venv/bin/activate          # windows: .venv\Scripts\activate
-    ```
+```bash
+python -m venv .venv
+source .venv/bin/activate          # windows: .venv\Scripts\activate
+```
 
 2) install dependencies.
     
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 3) (optional but recommended) enable git lfs for large model weights.
     
-    ```bash
-    git lfs install
-    git lfs track "*.safetensors"
-    git add .gitattributes
-    git commit -m "track safetensors with git lfs"
-    ```
-
----
+```bash
+git lfs install
+git lfs track "*.safetensors"
+git add .gitattributes
+git commit -m "track safetensors with git lfs"
+```
 
 ## Quickstart
 
 - **train + evaluate** (the script expects to be run from `src/` so that `Path.cwd().parent` resolves to the repo root):
     
-    ```bash
-    cd src
-    python gpt2_hasherv2.py
-    ```
+```bash
+cd src
+python gpt2_hasherv2.py
+```
 
 - **what the script does**
   - loads model + tokenizer from: `../gpt2-hashmodel/`
@@ -66,9 +64,9 @@ _The goal here is not practical password recovery, but to test how far llms can 
   - evaluates on: `../data/eval/dev_eval.yaml` (default), writing results to `../results/gpt/inferences_*.yaml`
   - in `__main__`, it runs 4 training/eval loops and overrides the training shard with:
     
-    ```python
-    'data/training/shards/shard_sample.jsonl'
-    ```
+```python
+'data/training/shards/shard_sample.jsonl'
+```
 
   make sure your local data paths exist or adjust them when you run.
 
@@ -88,36 +86,34 @@ this folder contains the fine-tuned model and tokenizer files used by `AutoModel
 
 **load locally**:
     
-    ```python
-    from transformers import AutoTokenizer, AutoModelForCausalLM
+```python
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
-    tok = AutoTokenizer.from_pretrained("gpt2-hashmodel")
-    model = AutoModelForCausalLM.from_pretrained("gpt2-hashmodel", torch_dtype="auto")
-    model.eval()
-    ```
-
----
+tok = AutoTokenizer.from_pretrained("gpt2-hashmodel")
+model = AutoModelForCausalLM.from_pretrained("gpt2-hashmodel", torch_dtype="auto")
+model.eval()
+```
 
 ## Project Structure
 
-    ```text
-    GPT2-UnHasher/
-    ├─ gpt2-hashmodel/                # weights + tokenizer + configs (output_dir)
-    ├─ results/
-    │  └─ gpt/
-    │     └─ inferences_*.yaml        # evaluation outputs (per run)
-    ├─ data/
-    │  ├─ shards/                     # training shards (jsonl; streamed)
-    │  └─ eval/                       # eval yaml with input/output pairs
-    ├─ src/
-    │  ├─ gpt2_hasherv2.py            # main training/eval script
-    │  └─ utils/
-    │     └─ similarity.py            # char_similarity / levenshtein / jaccard
-    ├─ requirements.txt
-    ├─ .gitignore
-    ├─ .gitattributes                 # lfs rules for *.safetensors
-    └─ README.md
-    ```
+```plaintext
+GPT2-UnHasher/
+├─ gpt2-hashmodel/                # weights + tokenizer + configs (output_dir)
+├─ results/
+│  └─ gpt/
+│     └─ inferences_*.yaml        # evaluation outputs (per run)
+├─ data/
+│  ├─ shards/                     # training shards (jsonl; streamed)
+│  └─ eval/                       # eval yaml with input/output pairs
+├─ src/
+│  ├─ gpt2_hasherv2.py            # main training/eval script
+│  └─ utils/
+│     └─ similarity.py            # char_similarity / levenshtein / jaccard
+├─ requirements.txt
+├─ .gitignore
+├─ .gitattributes                 # lfs rules for *.safetensors
+└─ README.md
+```
 
 ---
 
@@ -129,10 +125,10 @@ this folder contains the fine-tuned model and tokenizer files used by `AutoModel
   - eval:     `data/eval/dev_eval.yaml`
 - to use your own shard:
     
-    ```bash
-    cd src
-    python gpt2_hasherv2.py  # edit __main__ or pass a different path into GPT2HashTuner(...)
-    ```
+```bash
+cd src
+python gpt2_hasherv2.py  # edit __main__ or pass a different path into GPT2HashTuner(...)
+```
 
 **ignore raw datasets** in git. suggested entries are included below.
 
@@ -142,16 +138,16 @@ this folder contains the fine-tuned model and tokenizer files used by `AutoModel
 
 per-sample evaluation yaml format (written to `results/gpt/inferences_<STEM>_<ITER>.yaml`):
 
-    ```yaml
-    - hash: <hex hash>
-      prediction: <model guess>
-      truth: <ground truth>
-      scores:
-        aggregate: <mean of metrics>
-        char_sim: <float>
-        levenshtein: <float>
-        jaccard: <float>
-    ```
+```yaml
+- hash: <hex hash>
+  prediction: <model guess>
+  truth: <ground truth>
+  scores:
+    aggregate: <mean of metrics>
+    char_sim: <float>
+    levenshtein: <float>
+    jaccard: <float>
+```
 
 keep only representative runs (avoid huge dumps in the repo).
 
@@ -181,16 +177,16 @@ keep only representative runs (avoid huge dumps in the repo).
 
 ## `.gitattributes` (git lfs)
 
-    ```gitattributes
-    *.safetensors filter=lfs diff=lfs merge=lfs -text
-    ```
+```gitattributes
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+```
 
 if you accidentally committed weights without lfs, migrate and force-push (_like I did_...):
     
-    ```bash
-    git lfs migrate import --include="*.safetensors"
-    git push -f origin main
-    ```
+```bash
+git lfs migrate import --include="*.safetensors"
+git push -f origin main
+```
 
 ---
 
